@@ -1,0 +1,5 @@
+C:\Users\user\source\repos\FreshFruit\FreshFruit\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\user\source\repos\FreshFruit\FreshFruit\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\user\source\repos\FreshFruit\FreshFruit\obj\Debug\netcoreapp3.1\FreshFruit_MarkupCompile.cache
+C:\Users\user\source\repos\FreshFruit\FreshFruit\obj\Debug\netcoreapp3.1\FreshFruit_MarkupCompile.lref
+C:\Users\user\source\repos\FreshFruit\FreshFruit\obj\Debug\netcoreapp3.1\FreshFruit.csproj.AssemblyReference.cache
